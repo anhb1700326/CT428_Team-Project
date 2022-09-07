@@ -1,0 +1,90 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(10, 10, 56);
+}
+#page {
+    min-height: 200px;
+    width: 60%;
+    min-width: 600px;
+    background: rgb(255, 255, 255);
+    margin: 50px auto;
+    padding: 30px;
+    color: #27aae1;
+}
+
+
+h1{
+    margin: 50px auto;
+    padding: 30px;
+    color: rgb(220, 220, 233);
+    text-transform: uppercase;
+    text-align: center;
+}
+.job-title {
+    margin: 6px 0;
+}
+.job-title-phone {
+    margin-bottom: 6px;
+}
+.job-title-top {
+    margin-top: 6px;
+}
+.duyanh{
+    min-height: 100px;
+    width: 80%;
+    min-width: 100px;
+    margin: 20px auto;
+    padding: 30px;
+    color: #e8f0f3;
+
+}
+.yenlinh{
+    min-height: 100px;
+    width: 80%;
+    min-width: 100px;
+    margin: 20px auto;
+    padding: 30px;
+    color: #e8f0f3;
+}
+.thanhyen{
+    min-height: 100px;
+    width: 80%;
+    min-width: 100px;
+    margin: 20px auto;
+    padding: 30px;
+    color: #e8f0f3;
+}
+.hoanganh{
+    min-height: 100px;
+    width: 80%;
+    min-width: 100px;
+    margin: 20px auto;
+    padding: 30px;
+    color: #e8f0f3;
+}
+.photo {
+    padding: 5px;
+    background-color: DodgerBlue;
+    transition: transform .2s;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+  }
+  /*Hiệu ứng zoom*/
+  .photo:hover {
+    transform: scale(1.5);
+  }
+.hai{
+    background-color: #e8f0f3;
+    color: #fff;
+
+}
+.ba{
+    color: #27e174;
+    color: #ffff01;
+    font-size: 25px;
+    text-decoration: none;
+}
+
